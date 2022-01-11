@@ -1,0 +1,2 @@
+# Fake-News-Detection-Using-Machine-Learning-Methods
+Fake news is always a real and dangerous issue. However, with the presence and abundance of various social media platforms, this phenomenon has become more widespread and worse than ever before. It can have grave financial and social consequences, whether for both individuals and entities. In this project, I will address this issue from the technical side by applying different machine learning algorithms to choose the best to build a model that can classify news as real or fake.
